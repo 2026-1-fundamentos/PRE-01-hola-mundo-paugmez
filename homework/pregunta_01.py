@@ -10,7 +10,7 @@ def pregunta_01():
     Retorne el string "Hola mundo cruel!".
 
     Rta/
-    Hola mundo cruel!
+    Hola mundo crouel!
 
     """
 
