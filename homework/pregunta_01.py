@@ -10,11 +10,11 @@ def pregunta_01():
     Retorne el string "Hola mundo cruel!".
 
     Rta/
-    Hola mundo crouel!
+    Hola mundo cruel!
 
     """
 
-    return
+    return 'Hola munfo cruel!'
 
 
 if __name__ == "__main__":
