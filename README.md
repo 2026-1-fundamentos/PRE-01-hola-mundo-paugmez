@@ -2,9 +2,6 @@
 # Configuración en MacOS y Linux
 
 Ejecute los siguientes comandos en el terminal:
-
-XXXXXXXX
-
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
